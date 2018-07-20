@@ -5,6 +5,9 @@ _/version 20180720 ;
 _/studentlink redirect_asis ;
 _/geography/brdf redirect_asis ;
 
+# test1 dsmk scottm 
+_/testurl content
+
 # items from the www:phpmap.txt
 _/buniverse phpbin ;
 _/maps phpbin ;
